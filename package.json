@@ -1,0 +1,29 @@
+{
+  "name": "@goldix.org/logger-winston-console",
+  "version": "0.0.1",
+  "description": "Logger based on winston node library with console transport",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demchenkoe/goldix.org-logger-winston-console.git"
+  },
+  "keywords": [
+    "goldix.org",
+    "logger",
+    "winston",
+    "console"
+  ],
+  "author": "Eugene Demchenko <demchenkoev@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demchenkoe/goldix.org-logger-winston-console/issues"
+  },
+  "homepage": "https://github.com/demchenkoe/goldix.org-logger-winston-console#readme",
+  "dependencies": {
+    "@goldix.org/logger-console": "0.0.1",
+    "winston": "^2.4.2"
+  }
+}
