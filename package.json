@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/demchenkoe/goldix.org-logger-winston-console#readme",
   "dependencies": {
-    "@goldix.org/logger-console": "0.0.1",
+    "@goldix.org/logger-console": "0.0.2",
     "winston": "^2.4.2"
   }
 }
