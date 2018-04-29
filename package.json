@@ -1,6 +1,6 @@
 {
   "name": "@goldix.org/logger-winston-console",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Logger based on winston node library with console transport",
   "main": "index.js",
   "scripts": {
